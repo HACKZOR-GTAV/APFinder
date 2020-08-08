@@ -1483,9 +1483,9 @@
 /admin1.htm
 /admin2.%EXT%
 /yonetim.%EXT%
-/yonetim.html yonetim.html yonetim.html yone
+/yonetim.html 
 /yonetici.%EXT%
-/yonetici.html (en anglais seulement)
+/yonetici.html
 /votre-admin.%EXT%
 /votre admin/
 /Serveur.%EXT%
